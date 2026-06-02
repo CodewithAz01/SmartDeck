@@ -65,9 +65,6 @@ It runs as a lightweight background-aware desktop app with a polished dark inter
 | **Python** | `3.10` | Runtime |
 | **PyQt6** | `6.x` | GUI framework |
 | **keyboard** | `0.13.5+` | Global key hook / send |
-| **mediapipe** | `0.10.9` | _(gesture recognition — future integration)_ |
-
-> **Note:** `mediapipe 0.10.9` requires Python `3.10` — do not upgrade Python beyond `3.10.x` if you intend to use MediaPipe features.
 
 ---
 
@@ -99,7 +96,6 @@ pip install -r requirements.txt
 ```
 PyQt6>=6.4.0
 keyboard>=0.13.5
-mediapipe==0.10.9
 ```
 
 > ⚠️ **Windows only:** The `keyboard` library requires **administrator privileges** to hook global key events.  
@@ -156,7 +152,6 @@ smartdeck/
 
 ## 🔮 Roadmap
 
-- [ ] MediaPipe gesture recognition integration (wave hand = next slide)
 - [ ] System tray support (minimize to tray)
 - [ ] Custom key mapping via settings panel
 - [ ] macOS support
