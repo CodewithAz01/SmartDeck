@@ -8,6 +8,11 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
+# Download Exe File to run the Project
+
+<a href="https://drive.google.com/file/d/1RGXp6-wURs0UZi0_5XMk4lw86dS0RL7l/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-Windows_EXE-orange?style=for-the-badge" alt="Download EXE">
+</a>
 
 ## 📋 Table of Contents
 
